@@ -1,0 +1,4 @@
+# Project exclude paths
+/java-demo/target/
+/kafka-demo/target/
+/netty-demo/target/

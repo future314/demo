@@ -1,0 +1,10 @@
+server:
+  port: 9898
+
+spring:
+  thymeleaf:
+    cache: false
+    prefix: classpath:/templates/
+  web:
+    resources:
+      static-locations: file:/root/todo-list
